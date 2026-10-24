@@ -3,7 +3,6 @@
 @section('content')
 <article>
     <h2>Memahami Relasi Database pada Toko Online dengan Laravel</h2>
-    <p class="text-muted">Studi kasus: Eloquent ORM</p>
 
     <p>Toko online menyimpan banyak jenis data: pelanggan, produk, kategori, dan pesanan. Data-data ini saling berhubungan, dan Laravel mengelolanya lewat relasi Eloquent sehingga kita tidak perlu menulis query JOIN manual.</p>
 
